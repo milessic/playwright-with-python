@@ -10,7 +10,7 @@
 {
 	"environment": "test",
 	"headless":true,
-    "timeout": 15
+	"timeout": 15
 }
 
 ```
